@@ -11,12 +11,17 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.ComposeView
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.fragment.app.Fragment
+import androidx.fragment.app.viewModels
+import androidx.lifecycle.LiveData
+import com.example.androiddevchallenge.model.Pet
 import com.example.androiddevchallenge.ui.theme.MyTheme
 
 /**
  * @author zhangduo on 2021/3/1
  */
 class ListFragment : Fragment() {
+
+    private val viewModel: ListViewModel by viewModels()
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -26,7 +31,7 @@ class ListFragment : Fragment() {
         return ComposeView(requireContext()).apply {
             setContent {
                 MyTheme {
-                    MyApp()
+                    PetListing(viewModel.pets)
                 }
             }
         }
@@ -34,7 +39,7 @@ class ListFragment : Fragment() {
 
     // Start building your app here!
     @Composable
-    fun MyApp() {
+    fun PetListing(pets: LiveData<List<Pet>>) {
         Surface(color = MaterialTheme.colors.background) {
             Text(text = "Ready... Set... GO!")
         }
@@ -44,7 +49,6 @@ class ListFragment : Fragment() {
     @Composable
     fun PreviewLight() {
         MyTheme {
-            MyApp()
         }
     }
 

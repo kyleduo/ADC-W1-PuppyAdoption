@@ -1,4 +1,4 @@
-package com.example.androiddevchallenge
+package com.example.androiddevchallenge.list
 
 import android.os.Bundle
 import android.view.LayoutInflater

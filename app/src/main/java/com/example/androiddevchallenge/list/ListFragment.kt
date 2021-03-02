@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.MaterialTheme
@@ -21,6 +22,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.androiddevchallenge.model.Pet
 import com.example.androiddevchallenge.repository.PetsRepo
 import com.example.androiddevchallenge.ui.theme.MyTheme
+import dev.chrisbanes.accompanist.glide.GlideImage
 
 /**
  * @author zhangduo on 2021/3/1
@@ -64,10 +66,19 @@ class ListFragment : Fragment() {
             petsList.value?.let {
                 LazyColumn {
                     this.items(it) { pet ->
-                        Text(text = pet.name)
+                        PetItem(pet = pet)
                     }
                 }
             }
+        }
+    }
+
+    @Composable
+    fun PetItem(pet: Pet) {
+        Row {
+            GlideImage(data = pet.photo) {
+            }
+//            Text(text = pet.name)
         }
     }
 

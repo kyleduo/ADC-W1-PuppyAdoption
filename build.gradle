@@ -36,7 +36,9 @@ plugins {
 
 subprojects {
     repositories {
+        mavenCentral()
         google()
+        //noinspection JcenterRepositoryObsolete
         jcenter()
     }
 

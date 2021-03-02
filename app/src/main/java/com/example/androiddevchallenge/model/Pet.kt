@@ -8,15 +8,13 @@ import com.google.gson.annotations.SerializedName
 data class Pet(
     val id: Int,
     val name: String,
+    @SerializedName("breeds_label")
     val breed: String,
     val age: String,
     val sex: String,
     val size: String,
-    val coatLength: String,
     val description: String,
-    @SerializedName("primary_photo_url")
-    val photo: String,
+    val photos: List<String>,
     val location: Location,
-    val contact: Contact
 )
 

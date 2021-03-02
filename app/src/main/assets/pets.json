@@ -1,187 +1,506 @@
 [
   {
-    "id": 50350539,
-    "breeds_label": "Anatolian Shepherd Mix",
-    "age": "Baby",
+    "id": 50703831,
+    "breeds_label": "Hound Mix",
+    "age": "Adult",
     "sex": "Female",
-    "size": "Large",
-    "coat_length": "Medium",
-    "name": "Anatolian Mix female older puppies",
-    "description": "Only Reddish one now available\n\nThese two Anatolian mix females are probably sisters but possibly from different litters. The Reddish one seems to be a little older. They are both timid initially with strangers but friendly.\nKellen Rescue requires fenced yards and do not adopt out of State with the exception of sometimes to neighboring States. Our dogs are in foster homes and available to meet by appointment.",
-    "primary_photo_url": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-    "primary_photo_cropped_url": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-    "photo_urls": [
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/2\/?bust=1611441240",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/3\/?bust=1611441250",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/4\/?bust=1611441264"
-    ],
-    "adoption_status": "adoptable",
-    "attributes": [
-      "House trained",
-      "Spay\/Neuter",
-      "Shots Current"
-    ],
-    "published_at": "2021-01-23T22:36:03+00:00",
-    "contact": {
-      "email": "kellen@sti.net",
-      "phone": "(209) 742-4294"
-    },
+    "size": "Medium",
+    "name": "Flurry",
+    "description": "Flurry is a 4 year old female hound mix looking for a forever home.  Please call the shelter to get more info on her and make an appointment to meet this sweetie.  Her adoption donation is only $120!",
     "location": {
       "address": {
-        "city": "Oakhurst",
-        "state": "CA",
-        "postal_code": "93644",
+        "address1": "PO Box 4572",
+        "address2": "6247 Lamphear Rd.",
+        "city": "Rome",
+        "state": "NY",
+        "postal_code": "13440",
         "country": "US"
       }
-    }
+    },
+    "photos": [
+      "50703831_1",
+      "50703831_2"
+    ]
   },
   {
-    "id": 50350539,
-    "breeds_label": "Anatolian Shepherd Mix",
-    "age": "Baby",
-    "sex": "Female",
-    "size": "Large",
-    "coat_length": "Medium",
-    "name": "Anatolian Mix female older puppies",
-    "description": "Only Reddish one now available\n\nThese two Anatolian mix females are probably sisters but possibly from different litters. The Reddish one seems to be a little older. They are both timid initially with strangers but friendly.\nKellen Rescue requires fenced yards and do not adopt out of State with the exception of sometimes to neighboring States. Our dogs are in foster homes and available to meet by appointment.",
-    "primary_photo_url": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-    "primary_photo_cropped_url": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-    "photo_urls": [
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/2\/?bust=1611441240",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/3\/?bust=1611441250",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/4\/?bust=1611441264"
-    ],
-    "adoption_status": "adoptable",
-    "attributes": [
-      "House trained",
-      "Spay\/Neuter",
-      "Shots Current"
-    ],
-    "published_at": "2021-01-23T22:36:03+00:00",
-    "contact": {
-      "email": "kellen@sti.net",
-      "phone": "(209) 742-4294"
-    },
+    "id": 50654586,
+    "breeds_label": "Pit Bull Terrier Mix",
+    "age": "Adult",
+    "sex": "Male",
+    "size": "Medium",
+    "name": "Kratos",
+    "description": "This 3 year old sweet boy is Kratos! He is calm, kind and loving, with a playful side! Kratos is well-mannered so he may do well with other dogs or kids but a meet and greet is required. We are unsure if he is good around cats but he can be cat tested upon request. Call us soon to meet this love bug before he's snatched up by a lucky family!  His adoption donation is only $120!\n",
     "location": {
       "address": {
-        "city": "Oakhurst",
-        "state": "CA",
-        "postal_code": "93644",
+        "address1": "PO Box 4572",
+        "address2": "6247 Lamphear Rd.",
+        "city": "Rome",
+        "state": "NY",
+        "postal_code": "13440",
         "country": "US"
       }
-    }
+    },
+    "photos": [
+      "50654586_1",
+      "50654586_2",
+      "50654586_3"
+    ]
   },
   {
-    "id": 50350539,
-    "breeds_label": "Anatolian Shepherd Mix",
-    "age": "Baby",
-    "sex": "Female",
-    "size": "Large",
-    "coat_length": "Medium",
-    "name": "Anatolian Mix female older puppies",
-    "description": "Only Reddish one now available\n\nThese two Anatolian mix females are probably sisters but possibly from different litters. The Reddish one seems to be a little older. They are both timid initially with strangers but friendly.\nKellen Rescue requires fenced yards and do not adopt out of State with the exception of sometimes to neighboring States. Our dogs are in foster homes and available to meet by appointment.",
-    "primary_photo_url": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-    "primary_photo_cropped_url": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-    "photo_urls": [
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/2\/?bust=1611441240",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/3\/?bust=1611441250",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/4\/?bust=1611441264"
-    ],
-    "adoption_status": "adoptable",
-    "attributes": [
-      "House trained",
-      "Spay\/Neuter",
-      "Shots Current"
-    ],
-    "published_at": "2021-01-23T22:36:03+00:00",
-    "contact": {
-      "email": "kellen@sti.net",
-      "phone": "(209) 742-4294"
-    },
+    "id": 50622816,
+    "breeds_label": "German Shepherd Dog Mix",
+    "age": "Adult",
+    "sex": "Male",
+    "size": "Medium",
+    "name": "Nicholas",
+    "description": "This is Nicholas, a 5 year old German Shepherd mix who needs a home.  He can be spunky, sweet, happy, loving, laid back and confident.  He would prefer to be the only pet so he can get all the attention.  His adoption fee is only $120 so call for an appointment to meet him today!",
     "location": {
       "address": {
-        "city": "Oakhurst",
-        "state": "CA",
-        "postal_code": "93644",
+        "address1": "PO Box 4572",
+        "address2": "6247 Lamphear Rd.",
+        "city": "Rome",
+        "state": "NY",
+        "postal_code": "13440",
         "country": "US"
       }
-    }
+    },
+    "photos": [
+      "50622816_1"
+    ]
   },
   {
-    "id": 50350539,
-    "breeds_label": "Anatolian Shepherd Mix",
-    "age": "Baby",
+    "id": 48387347,
+    "breeds_label": "German Shepherd Dog & Rottweiler Mix",
+    "age": "Adult",
     "sex": "Female",
-    "size": "Large",
-    "coat_length": "Medium",
-    "name": "Anatolian Mix female older puppies",
-    "description": "Only Reddish one now available\n\nThese two Anatolian mix females are probably sisters but possibly from different litters. The Reddish one seems to be a little older. They are both timid initially with strangers but friendly.\nKellen Rescue requires fenced yards and do not adopt out of State with the exception of sometimes to neighboring States. Our dogs are in foster homes and available to meet by appointment.",
-    "primary_photo_url": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-    "primary_photo_cropped_url": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-    "photo_urls": [
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/2\/?bust=1611441240",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/3\/?bust=1611441250",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/4\/?bust=1611441264"
-    ],
-    "adoption_status": "adoptable",
-    "attributes": [
-      "House trained",
-      "Spay\/Neuter",
-      "Shots Current"
-    ],
-    "published_at": "2021-01-23T22:36:03+00:00",
-    "contact": {
-      "email": "kellen@sti.net",
-      "phone": "(209) 742-4294"
-    },
+    "size": "Medium",
+    "name": "Baylee",
+    "description": "My name is Baylee! I am a 6 year old shepherd-mix who needs a forever home.  I'm looking for a quieter, ''low energy'' home with not too many visitors and no other other animals as I enjoy being the queen of the home. I can be nervous meeting new people, but once we get to know each other we will be best friends! I am exuberant, athletic, bouncy, sassy and playful; I just need to find the right owner to help me refine my manners, skills and good qualities! I love treats of all kinds and attention! If you're looking for a great companion, I am your girl! Come on down and ask the staff about me today!  My adoption donation is only $120.",
     "location": {
       "address": {
-        "city": "Oakhurst",
-        "state": "CA",
-        "postal_code": "93644",
+        "address1": "PO Box 4572",
+        "address2": "6247 Lamphear Rd.",
+        "city": "Rome",
+        "state": "NY",
+        "postal_code": "13440",
         "country": "US"
       }
-    }
+    },
+    "photos": [
+      "48387347_1",
+      "48387347_2",
+      "48387347_3"
+    ]
   },
   {
-    "id": 50350539,
-    "breeds_label": "Anatolian Shepherd Mix",
-    "age": "Baby",
-    "sex": "Female",
+    "id": 49237516,
+    "breeds_label": "Pit Bull Terrier",
+    "age": "Adult",
+    "sex": "Male",
     "size": "Large",
-    "coat_length": "Medium",
-    "name": "Anatolian Mix female older puppies",
-    "description": "Only Reddish one now available\n\nThese two Anatolian mix females are probably sisters but possibly from different litters. The Reddish one seems to be a little older. They are both timid initially with strangers but friendly.\nKellen Rescue requires fenced yards and do not adopt out of State with the exception of sometimes to neighboring States. Our dogs are in foster homes and available to meet by appointment.",
-    "primary_photo_url": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-    "primary_photo_cropped_url": "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-    "photo_urls": [
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/1\/?bust=1611441225",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/2\/?bust=1611441240",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/3\/?bust=1611441250",
-      "https:\/\/dl5zpyw5k3jeb.cloudfront.net\/photos\/pets\/50350539\/4\/?bust=1611441264"
-    ],
-    "adoption_status": "adoptable",
-    "attributes": [
-      "House trained",
-      "Spay\/Neuter",
-      "Shots Current"
-    ],
-    "published_at": "2021-01-23T22:36:03+00:00",
-    "contact": {
-      "email": "kellen@sti.net",
-      "phone": "(209) 742-4294"
-    },
+    "name": "Simon",
+    "description": "Meet Simon! Simon is a terrier/pitbull mix who about 4 years old and came to us as a stray. Simon loves to play, is a bit of a busy body and just needs to be somewhere where he can use his smarts and energy everyday. Unfortunately, we are unable to fulfill Simon's needs right now... Simon is NOT doing well here in the shelter. When Simon came to us he was a big goofball, unfortunately the stresses of being in a shelter environment for an extended period of time are proving to be too much for him. \nSimon has developed some undesirable behaviors. HOWEVER, we firmly believe that outside the shelter setting, these behaviors would significantly improve. Simon is not a bad boy, he is just trying to cope with his current situation the best way he knows how. \n\nSimon is looking for an adoptive home or foster home with an experienced owner, with no small animals and no children . He needs consistency and patience. \n\n**Please understand Simon is a special case and is looking for a dog experienced home that will give him the time, energy and patience (that's a big one) needed to correct his bad behaviors** \nAgain, he is NOT a bad boy, he is just reacting badly to his situation.\nIf you can help Simon become the best version of himself please fill out an application so we may set up a meet and greet!",
     "location": {
       "address": {
-        "city": "Oakhurst",
-        "state": "CA",
-        "postal_code": "93644",
+        "address1": "7138 Sutherland Drive",
+        "address2": "P.O.  Box 535",
+        "city": "Canastota",
+        "state": "NY",
+        "postal_code": "13032",
         "country": "US"
       }
-    }
+    },
+    "photos": [
+      "49237516_1",
+      "49237516_2",
+      "49237516_3",
+      "49237516_4",
+      "49237516_5",
+      "49237516_6"
+    ]
+  },
+  {
+    "id": 47256252,
+    "breeds_label": "Pit Bull Terrier Mix",
+    "age": "Adult",
+    "sex": "Female",
+    "size": "Medium",
+    "name": "Thea Queen",
+    "description": "Meet Miss Thea Queen! This beautiful girl has been with us at Wanderer's for quite some time now, and by \"quite some time we mean she just passed 400 days as being a resident here at the shelter. \nWhy? Well, that's a great question with a complex answer. \nLike MOST dogs Thea is absolutely terrified, which more then likely is presented as aggression when inside her kennel. The primary reason for this is because her kennel is HER HOME. She is a young dog whose life prior to the shelter we have no knowledge of; meaning for all we know she could have escaped an inadequate living environment, OR she could have possibly had a great home. We'll never know, but that's okay!\nWith the being said, imagine being in a foreign place, your new living quarters doesn't have windows and only one way out that's locked and requires thumbs to open (now imagine being a dog for that part). Then imagine having to use the restroom but being unable to actually use the restroom. That's what it's like in the minds of most shelter dogs, you'd be a wreck too. Even though Thea is a Queen she can be a bit dramatic when meeting new people. Initially she can become defensive, definitely scared, and she'll even cower in the back end of her kennel. Maybe she'll let out a bark or 4 that doesn't show you who she actually is, what she's saying is \"HEY! The Queen doesn't know you!!! \nOur Thea here has required a bit of work to get her to where she is right now, we couldn't be more proud of her and how far she's come! After spending lots and lots of quality time with Thea we've learned so many wonderful things about her that truly did shock us! She is STRONG, but eager with a secret submissive side. She just absolutely loves laying out in the grass, all splayed out like a frog, you can truly see the happiness in her facial expression and the bliss in her eyes, it's truly a sight to see. Another fan favorite of Theas is WATER, she could spend all day in the kiddy pools, she'll wade in the water and even lay in it for an impressive amount of time too. It usually takes place after she's had an intense tug-o-war match, or fetch! She fancy's both, but her absolute favorite toys are squeaky stuffed animals, any species she doesn't have a preference, as long as she can rip it to shreds and show them who the real Queen is she's happy. You'd think she would have slipped a disk or given herself whiplash with how intensely she shakes her head back and forth.\nTheas adopter is required to continue her current obedience training. They'll need to have a very clear understanding of what it takes to properly care for her. Consistency is key for Theas success. It's highly suggested that her new owner is a single male, Thea responds impressively well to the depth of a mans voice and seemed to start obeying commands much quicker opposed to female handlers. Although it's not impossible for a women to gain her trust. \nGetting to know Thea will also require and consist of multiple visits to the shelter to guarantee a perfect fit. Thea is full of excitement and enthusiasm for every possible adventure! Will you be joining our Queen as her King? Guess you'll have to come and meet her for yourself! By appointment only, of course, being royalty and all.",
+    "location": {
+      "address": {
+        "address1": "7138 Sutherland Drive",
+        "address2": "P.O.  Box 535",
+        "city": "Canastota",
+        "state": "NY",
+        "postal_code": "13032",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "47256252_1",
+      "47256252_2",
+      "47256252_3",
+      "47256252_4",
+      "47256252_5",
+      "47256252_6"
+    ]
+  },
+  {
+    "id": 50684043,
+    "breeds_label": "American Staffordshire Terrier Mix",
+    "age": "Adult",
+    "sex": "Female",
+    "size": "Large",
+    "name": "Polly",
+    "description": "Meet Polly! This sweet girl is a terrier mix. Polly is 8 years old but doesn\u2019t act her age. She absolutely loves to play and go on walks. As soon as you meet her in her kennel she gives you the sweet eyes and loves to be loved. Polly\u2019s favorite thing to do is lay on the couch and cuddle. This sweet girl has a broken tail that is so cute when she wiggles it. She absolutely love car rides. A sweet as this girl is I\u2019m so surprised she hasn\u2019t found her forever home. \n\nShe is good with kids but recommend kids 8 years old or older. She has been around a 2 year old and will just give kisses. Just little kids energy she avoids. \n\nCats no \n\nOther dogs ok but will need a meet and greet.\n\nPolly is up to date on shots, microchipped and spayed",
+    "location": {
+      "address": {
+        "city": "Utica",
+        "state": "NY",
+        "postal_code": "13502",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50684043_1",
+      "50684043_2"
+    ]
+  },
+  {
+    "id": 50555860,
+    "breeds_label": "American Bulldog Mix",
+    "age": "Young",
+    "sex": "Female",
+    "size": "Large",
+    "name": "Betty White",
+    "description": "Meet Betty White! She is a 2 year old American bulldog mix. This large girl is still full of spunk. She is looking for an experience owner as she still has a few corks to work out as she nips a little and wants to play tug a war with the leash but once on a walk she walk perfect with no pulling. She is very treat drivin and listens very well. \n\nBetty will sit and give paw. Her favorite is belly rubs or wiggling back and forth on her back. She is very affectionate and very happy girl. \n\nI personally went to FL and pulled her off the euthanized list as just cuz she didn\u2019t have any manner her time was up. Within the short time of having her she has completely became the happy love bug herself. \n\nOther dogs- ok if they are very playful but still would require a meet and greet \n\nKids- I recommend over 13. Due to size and playfulness \n\nCats- NO \n\nBetty is spayed, up to date on shots, HW negative and microchipped",
+    "location": {
+      "address": {
+        "city": "Utica",
+        "state": "NY",
+        "postal_code": "13502",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50555860_1",
+      "50555860_2",
+      "50555860_3",
+      "50555860_4"
+    ]
+  },
+  {
+    "id": 50555730,
+    "breeds_label": "Terrier Mix",
+    "age": "Young",
+    "sex": "Female",
+    "size": "Medium",
+    "name": "Jenny",
+    "description": "Meet Jenny she is a 1 year old terrier mix. This girl is nothing but playful and full of kisses. As she is still young she still has a lot of puppy energy. We are still working on walking on a leash but does her best in a harness. \n\n*Kids recommend 10 plus years old \n*Other dogs she does well with make not so great with another female. \n* No cats \n\nJenny is spayed, up to date on shots, heat worm negative and microchipped",
+    "location": {
+      "address": {
+        "city": "Utica",
+        "state": "NY",
+        "postal_code": "13502",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50555730_1",
+      "50555730_2",
+      "50555730_3"
+    ]
+  },
+  {
+    "id": 50334488,
+    "breeds_label": "Bull Terrier Mix",
+    "age": "Adult",
+    "sex": "Male",
+    "size": "Large",
+    "name": "Hank",
+    "description": "Meet Hank!! He is a 6 year old mix breed dog. Don't let the grumpy face fool you as he is the sweetest coolest dude ever. Hank was picked up as a stray in FL hungry and lost. No one came forward for him and he sat at West Palm Beach for all most a year. So lets get this amazing guy the home he deserves. \n\nHank is up to date on shots, fixed and microchipped.\n\nKids and dogs older ok\nCats unknown",
+    "location": {
+      "address": {
+        "city": "Utica",
+        "state": "NY",
+        "postal_code": "13502",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50334488_1",
+      "50334488_2",
+      "50334488_3"
+    ]
+  },
+  {
+    "id": 50510579,
+    "breeds_label": "German Shepherd Dog & Husky Mix",
+    "age": "Young",
+    "sex": "Male",
+    "size": "Large",
+    "name": "Hunter",
+    "description": "Thank you for choosing rescue.  To begin the process please fill out an application here:  http://goo.gl/forms/XPuk6w9615GXqo0x2\n\nThis is my foster dog...if you or anyone you know is interested in adopting this dog please contact: www.DogGoneInn.com\n\nName: \t\tHunter \nGender: \tNeutered \nColor:\t\tBrown/White\nDOB:\t\t07/02/2020\nBreed:\t\tGermen Shepherd Dog/ Siberian Husky Mix\nNotes:     I need a home without children, due to the abuse I have suffered in my life.  I am hand shy and will take a moment to warm up to you, but once I do, I am very sweet!  \n\nThere is an adoption process along with a donation.\n\nPlease bring your dog (if you have one), and a martingale collar with a leash, should we move forward.  We recycle theirs for the next dog :)  I have attached a picture of a martingale collar.  If you cannot find one, we do sell them at the daycare for 10-15.  Purchasing one from us allows us to fit it properly and it helps to benefit the rescue.  We carry leashes too, the collar and leash set are 30.  Adoption donations vary depending on the dog's age and medical expenses.  Typically they start at 650 and go up from there.  We realize this is a larger donation, however we have no state funding like shelters do.  That being said, dogs do come to you fully vetted.  They have been fixed, given distemper, bordetella, rabies, heartworm tested, de-wormed, on prevention for heartworm, fleas, ticks, intestinal parasites and microchipped.  Additionally we have paid for the microchip registration for life. \n\n*Please note we make every effort to have our dogs altered prior to adoption, if we cannot spay/neuter clauses will be in the contract.\n\n*Please come down to the Dog Gone Inn in Manlius to meet us!\n\nThank you for choosing rescue! \n\nDon't forget to like us and follow us on Facebook, we get new animals in regularly.\n\n*Please submit an application here: http://goo.gl/forms/XPuk6w9615GXqo0x2 and come down to the Dog Gone Inn in Manlius to see me or (315) 728-9344 or www.DogGoneInn.com or DogGoneInn@Yahoo.com or www.facebook.com/DogGoneInn",
+    "location": {
+      "address": {
+        "address1": "315 Fayette Street",
+        "address2": "Suite 7",
+        "city": "Manlius",
+        "state": "NY",
+        "postal_code": "13104",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50510579_1",
+      "50510579_2",
+      "50510579_3",
+      "50510579_4",
+      "50510579_5",
+      "50510579_6"
+    ]
+  },
+  {
+    "id": 50702324,
+    "breeds_label": "Terrier Mix",
+    "age": "Adult",
+    "sex": "Female",
+    "size": "Small",
+    "name": "Nyla",
+    "description": "Meet the adorable Nyla! This sweet girl is around 2 years old and was found as a stray. She is one of the most loyal dogs you could meet. All she wants is to sit in your lap and be by your side. She walks well on a leash, is crate trained and house trained. Nyla is looking for a home with no cats, older kids and is dog selective when sharing her home with a dog, but does not react when on a walk and seeing other dogs. She is very loyal to her person and has so much love to give. If interested please complete an application from our website.\nwww.jamesvillesecondchance.com",
+    "location": {
+      "address": {
+        "address1": "6660 E Seneca Turnpike",
+        "city": "Jamesville",
+        "state": "NY",
+        "postal_code": "13078",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50702324_1",
+      "50702324_2",
+      "50702324_3",
+      "50702324_4",
+      "50702324_5",
+      "50702324_6"
+    ]
+  },
+  {
+    "id": 50702277,
+    "breeds_label": "Pit Bull Terrier Mix",
+    "age": "Young",
+    "sex": "Female",
+    "size": "Medium",
+    "name": "Harriet",
+    "description": "Meet the sweet loving Harriet! This poor girl was found as a stray trying to survive in the cold winter snow. Luckily  she is safe now and is looking for her forever home. She is only around a year old. Her favorite activity is being where you are! Her whole body wiggles with excitement and she loves a good belly rub. Harriet is crate trained, loves playing with toys and going for car rides. If interested in meeting Harriet visit our website for an application.\nwww.jamesvillesecondchance.com",
+    "location": {
+      "address": {
+        "address1": "6660 E Seneca Turnpike",
+        "city": "Jamesville",
+        "state": "NY",
+        "postal_code": "13078",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50702277_1",
+      "50702277_2",
+      "50702277_3",
+      "50702277_4",
+      "50702277_5",
+      "50702277_6"
+    ]
+  },
+  {
+    "id": 50619456,
+    "breeds_label": "Pomeranian",
+    "age": "Adult",
+    "sex": "Male",
+    "size": "Small",
+    "name": "Taz & Trinkles",
+    "description": "Taz (red) and Trinkles (blonde) are a bonded pair around 5 years old that will need to be adopted together. They were part of a hoarding situation in the city. Due to their lack of care and neglect they will require dental work, which will be covered by the rescue. They love to just lay in your lap and cuddle, They enjoy going for short walks and car rides. They weight about 5-7lbs each, and are happiest just being with you. They would do best with dogs around their size and are fine with cats. If interested please complete an application from our website www.jamesvillesecondchance.com",
+    "location": {
+      "address": {
+        "address1": "6660 E Seneca Turnpike",
+        "city": "Jamesville",
+        "state": "NY",
+        "postal_code": "13078",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50619456_1",
+      "50619456_2",
+      "50619456_3",
+      "50619456_4",
+      "50619456_5",
+      "50619456_6"
+    ]
+  },
+  {
+    "id": 49350195,
+    "breeds_label": "Pit Bull Terrier & American Bulldog Mix",
+    "age": "Adult",
+    "sex": "Male",
+    "size": "Large",
+    "name": "Brownie",
+    "description": "Brownie is 3 years old and found himself at the shelter after his owner died. This poor guy was sad and confused but he still has so much love to give. He is a big boy at 70lbs. Someone who has dog experience would be best as he is strong but he also loves to lay on the couch and get a belly rub. He is very smart and eager to please. He is currently being fostered and is working on his manners. If interested visit our website for an application www.jamesvillesecondchance.com for an application.\nHis adoption fee has been sponsored!",
+    "location": {
+      "address": {
+        "address1": "6660 E Seneca Turnpike",
+        "city": "Jamesville",
+        "state": "NY",
+        "postal_code": "13078",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "49350195_1",
+      "49350195_2",
+      "49350195_3",
+      "49350195_4",
+      "49350195_5",
+      "49350195_6"
+    ]
+  },
+  {
+    "id": 50689555,
+    "breeds_label": "Plott Hound & Labrador Retriever Mix",
+    "age": "Adult",
+    "sex": "Male",
+    "size": "Large",
+    "name": "Tito",
+    "description": "Tito was abandoned with a severely broken jaw. He has had several surgeries to repair his jaw and has healed well. When out in public meeting new people he is very friendly and he is good with children 5 and up. Tito plays well with both big and small dogs. He walks well on a leash, loves car rides, knows \"\"sit, off\"\", how to use a doggie door and is house trained. He will make a wonderful companion for some lucky adopter.Please submit an application at http://helpinghoundsdogrescue.org Visit our dogs at the Rescue! We are open Tuesday through Saturday, noon - 6 pm and Sunday, noon - 4 pm.",
+    "location": {
+      "address": {
+        "address1": "7268 Caswell Street",
+        "city": "North Syracuse",
+        "state": "NY",
+        "postal_code": "13212",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50689555_1",
+      "50689555_2"
+    ]
+  },
+  {
+    "id": 50681046,
+    "breeds_label": "Pug & Beagle Mix",
+    "age": "Young",
+    "sex": "Male",
+    "size": "Medium",
+    "name": "Buddy",
+    "description": "Buddy is looking for an active family to get him out and about! He has lived a somewhat sheltered life, but he is eager to make friends and learn new things. He has done well with meeting new dogs and is making strides in his doggie manners. He will make a loyal companion to someone looking for a new best friend!Please submit an application at http://helpinghoundsdogrescue.org Visit our dogs at the Rescue! We are open Tuesday through Saturday, noon - 6 pm and Sunday, noon - 4 pm.",
+    "location": {
+      "address": {
+        "address1": "7268 Caswell Street",
+        "city": "North Syracuse",
+        "state": "NY",
+        "postal_code": "13212",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50681046_1",
+      "50681046_2"
+    ]
+  },
+  {
+    "id": 50662923,
+    "breeds_label": "Hound Mix",
+    "age": "Adult",
+    "sex": "Male",
+    "size": "Large",
+    "name": "Jerry",
+    "description": "Jerry loves to be with his people and loves naps. He is a sweet gentle soul who wants to be loved. When meeting new adults he is friendly and calm. Jerry plays well with other dogs, is friendly to children and does well with cats. He walks well on a leash and is crate and house trained. He has the makings of a true best friend.Please submit an application at http://helpinghoundsdogrescue.org Visit our dogs at the Rescue! We are open Tuesday through Saturday, noon - 6 pm and Sunday, noon - 4 pm.",
+    "location": {
+      "address": {
+        "address1": "7268 Caswell Street",
+        "city": "North Syracuse",
+        "state": "NY",
+        "postal_code": "13212",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50662923_1",
+      "50662923_2",
+      "50662923_3"
+    ]
+  },
+  {
+    "id": 50651065,
+    "breeds_label": "Belgian Shepherd / Sheepdog & Newfoundland Dog Mix",
+    "age": "Young",
+    "sex": "Male",
+    "size": "Large",
+    "name": "Prince",
+    "description": "Prince is a big lovable dog who is extremely affectionate and eager to please. He gives great hugs and will not push your hand away if you are inclined to pet him. He has not been around any children, but due to his size he would do best in a home with sturdy children! Prince loves all dogs and loves to play with them, and would be happy to have a doggy sibling! Prince is very smart and will likely pick up basic training easily.Please submit an application at http://helpinghoundsdogrescue.org Visit our dogs at the Rescue! We are open Tuesday through Saturday, noon - 6 pm and Sunday, noon - 4 pm.",
+    "location": {
+      "address": {
+        "address1": "7268 Caswell Street",
+        "city": "North Syracuse",
+        "state": "NY",
+        "postal_code": "13212",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50651065_1",
+      "50651065_2",
+      "50651065_3",
+      "50651065_4"
+    ]
+  },
+  {
+    "id": 50606911,
+    "breeds_label": "Chocolate Labrador Retriever",
+    "age": "Adult",
+    "sex": "Male",
+    "size": "Large",
+    "name": "Grizzly",
+    "description": "Grizzly is looking to go home with a family that will give him time and an opportunity for lots of outdoor time. He grew up with children and has decided that a quiet adult only home would be best for him. He is sweet, loving, and able to chase a ball or two.Please submit an application at http://helpinghoundsdogrescue.org Visit our dogs at the Rescue! We are open Tuesday through Saturday, noon - 6 pm and Sunday, noon - 4 pm.",
+    "location": {
+      "address": {
+        "address1": "7268 Caswell Street",
+        "city": "North Syracuse",
+        "state": "NY",
+        "postal_code": "13212",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50606911_1",
+      "50606911_2",
+      "50606911_3",
+      "50606911_4"
+    ]
+  },
+  {
+    "id": 50602661,
+    "breeds_label": "Leonberger & Foxhound Mix",
+    "age": "Adult",
+    "sex": "Male",
+    "size": "Large",
+    "name": "Baloo",
+    "description": "Big handsome boy Baloo will take you on many adventures. He loves to go for walks and enjoys play time in the back yard. He is learning to walk better on his leash. He does love romping around with his doggy friends, but is not a fan of cats. This boy has nothing but love to offer to some lucky family.Please submit an application at http://helpinghoundsdogrescue.org Visit our dogs at the Rescue! We are open Tuesday through Saturday, noon - 6 pm and Sunday, noon - 4 pm.",
+    "location": {
+      "address": {
+        "address1": "7268 Caswell Street",
+        "city": "North Syracuse",
+        "state": "NY",
+        "postal_code": "13212",
+        "country": "US"
+      }
+    },
+    "photos": [
+      "50602661_1",
+      "50602661_2",
+      "50602661_3"
+    ]
   }
 ]

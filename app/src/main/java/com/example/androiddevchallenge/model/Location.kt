@@ -5,11 +5,15 @@ package com.example.androiddevchallenge.model
  */
 data class Location(
     val address: Address
-)
+) {
+    val desc: String
+        get() {
+            return "${address.city} ${address.state} ${address.country}"
+        }
+}
 
 data class Address(
-    val city: String,
-    val state: String,
-    val postalCode: String,
-    val country: String
+    val city: String?,
+    val state: String?,
+    val country: String?
 )

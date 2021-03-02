@@ -1,19 +1,14 @@
 package com.example.androiddevchallenge.ui.pages
 
-import android.graphics.BitmapFactory
 import androidx.compose.foundation.*
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Text
-import androidx.compose.runtime.*
+import androidx.compose.runtime.Composable
 import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.ImageBitmap
-import androidx.compose.ui.graphics.asImageBitmap
-import androidx.compose.ui.graphics.painter.BitmapPainter
 import androidx.compose.ui.layout.ContentScale
-import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
@@ -22,10 +17,6 @@ import androidx.lifecycle.LiveData
 import com.example.androiddevchallenge.R
 import com.example.androiddevchallenge.model.Pet
 import com.example.androiddevchallenge.ui.AssetsImage
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.GlobalScope
-import kotlinx.coroutines.launch
 
 
 @Composable
@@ -116,6 +107,11 @@ fun PropertyRow(name: String, value: String) {
 @Composable
 fun ImageSegment(name: String, desc: String) {
     Row {
-        AssetsImage("images/$name.jpg", Modifier.requiredHeight(200.dp), contentScale = ContentScale.FillHeight, desc)
+        AssetsImage(
+            "images/$name.jpg",
+            Modifier.requiredHeight(200.dp),
+            contentScale = ContentScale.FillHeight,
+            desc
+        )
     }
 }

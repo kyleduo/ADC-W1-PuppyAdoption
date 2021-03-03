@@ -15,6 +15,7 @@
  */
 package com.example.androiddevchallenge.ui
 
+import android.graphics.Bitmap
 import android.graphics.BitmapFactory
 import androidx.compose.foundation.Image
 import androidx.compose.runtime.Composable
@@ -45,12 +46,23 @@ fun AssetsImage(
 ) {
     var image by remember { mutableStateOf<ImageBitmap?>(null) }
 
-    val context = LocalContext.current
-    GlobalScope.launch(Dispatchers.IO) {
-        val cached = ImageCaches.get(imagePath)
-        val bitmap = cached ?: BitmapFactory.decodeStream(context.assets.open(imagePath))
-        launch(Dispatchers.Main) {
-            image = bitmap.asImageBitmap()
+    val cached = ImageCaches.get(imagePath)
+    if (cached != null) {
+        image = cached
+    } else {
+        val context = LocalContext.current
+        GlobalScope.launch(Dispatchers.IO) {
+            val config = BitmapFactory.Options().apply {
+                inPreferredConfig = Bitmap.Config.RGB_565
+            }
+            val bitmap = BitmapFactory.decodeStream(context.assets.open(imagePath), null, config)
+            val imageBitmap = bitmap?.asImageBitmap()
+            imageBitmap?.let {
+                ImageCaches.save(imagePath, it)
+                launch(Dispatchers.Main) {
+                    image = it
+                }
+            }
         }
     }
 

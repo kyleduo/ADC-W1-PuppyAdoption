@@ -15,20 +15,20 @@
  */
 package com.example.androiddevchallenge.utils
 
-import android.graphics.Bitmap
+import androidx.compose.ui.graphics.ImageBitmap
 
 /**
  * @auther zhangduo on 2021/3/3
  */
 object ImageCaches {
 
-    private val caches = mutableMapOf<String, Bitmap>()
+    private val caches = mutableMapOf<String, ImageBitmap>()
 
-    fun save(key: String, bitmap: Bitmap) {
+    fun save(key: String, bitmap: ImageBitmap) {
         caches[key] = bitmap
     }
 
-    fun get(key: String): Bitmap? {
+    fun get(key: String): ImageBitmap? {
         return caches[key]
     }
 }

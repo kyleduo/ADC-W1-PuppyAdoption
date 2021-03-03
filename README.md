@@ -10,10 +10,14 @@
 
 Display puppy list and details when click item.
 
+The pets data was fetched from [https://www.petfinder.com](https://www.petfinder.com/)
+
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+
+This is my first time writing Jetpack Compose code and fortunately I have finished this tiny project.
 
 
 ## :camera_flash: Screenshots
